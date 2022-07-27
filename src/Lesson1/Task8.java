@@ -8,5 +8,9 @@ public class Task8 {
       price [2] = 3.24;
       price [3] = 4.28;
       price [4] = 5.25;
+      double a = price[0];
+      double b = price [4];
+      System.out.println (a);
+      System.out.println (b);
     }
 }
