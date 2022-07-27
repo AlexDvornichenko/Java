@@ -12,7 +12,7 @@ public class Task7 {
     a[6] =7;
     a[7] =8;
     a[8] =9;
-    a[9] =10;
+    a[9] =11;
     System.out.println(a.length);
     }
 }
