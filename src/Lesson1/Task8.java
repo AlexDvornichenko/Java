@@ -9,7 +9,7 @@ public class Task8 {
       price [3] = 4.28;
       price [4] = 5.25;
       double a = price[0];
-      double b = price [4];
+      double b = price [price.length -1];
       System.out.println (a);
       System.out.println (b);
     }
